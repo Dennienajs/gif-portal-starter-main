@@ -1,0 +1,24 @@
+Solana
+
+"Blockchain is AWS but it's run by strangers".
+
+Solana Program = code that lives on the blockchain
+Equals a Smart Contract on Ethereum
+
+Blockchain = AWS, Heroku -> but decentralized, run by validators.
+
+Accounts
+Smart Contracts can contain state (eth).
+Solana programs are stateless.
+On Solana users have Accounts -> like files
+We write programs that can talk to files (accounts).
+The program doesnt hold a user's data, the accounts does.
+
+Solana vs Ethereum -> is just like comparing programming languages. Pick whatever you want and feel comfortable with. Go, Node, Ruby, Solidity, whatever you like. Pros and cons for all.
+
+Cross chain is the future -> Bridges.
+
+Anchor = Hardhat on Ethereum
+anchor init <new-project-name>
+
+solana-install update
