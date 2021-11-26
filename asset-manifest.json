@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/giphyverse-react-solana/static/css/main.146254e3.chunk.css",
+    "main.js": "/giphyverse-react-solana/static/js/main.861c2063.chunk.js",
+    "main.js.map": "/giphyverse-react-solana/static/js/main.861c2063.chunk.js.map",
+    "runtime-main.js": "/giphyverse-react-solana/static/js/runtime-main.880fc2d0.js",
+    "runtime-main.js.map": "/giphyverse-react-solana/static/js/runtime-main.880fc2d0.js.map",
+    "static/js/2.67375aef.chunk.js": "/giphyverse-react-solana/static/js/2.67375aef.chunk.js",
+    "static/js/2.67375aef.chunk.js.map": "/giphyverse-react-solana/static/js/2.67375aef.chunk.js.map",
+    "index.html": "/giphyverse-react-solana/index.html",
+    "static/css/main.146254e3.chunk.css.map": "/giphyverse-react-solana/static/css/main.146254e3.chunk.css.map",
+    "static/js/2.67375aef.chunk.js.LICENSE.txt": "/giphyverse-react-solana/static/js/2.67375aef.chunk.js.LICENSE.txt",
+    "static/media/twitter-logo.d89d9a86.svg": "/giphyverse-react-solana/static/media/twitter-logo.d89d9a86.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.880fc2d0.js",
+    "static/js/2.67375aef.chunk.js",
+    "static/css/main.146254e3.chunk.css",
+    "static/js/main.861c2063.chunk.js"
+  ]
+}
